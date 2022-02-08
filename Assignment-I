@@ -71,20 +71,24 @@ Incremental Commits:
 11). Here's two more animal reports. Added the below meal-regimens.txt, making a new commit for each animal added.
 
       Step I: Add the below lines first
-                   
-                    4. Poison Dart Frogs
-                    Meal: 1 bag small crickets
-                    Times: 6:00 am
-                    Directions: empty bag in frog habitat once daily. Do not touch frogs! Extremely poisonous.
+
+<<<Please append below content to your file "meal-regimens.txt">>>  
+4. Poison Dart Frogs
+Meal: 1 bag small crickets
+Times: 6:00 am
+Directions: empty bag in frog habitat once daily. Do not touch frogs! Extremely poisonous.
+<<<Please append above content to your file "meal-regimens.txt">>>
      
      Step II: Stage meal-regimens.txt
      Step III: View status of the repository, (don't commit now)
      Step III: Add the below lines again.
         
-                    5. Western Lowland Gorilla
-                    Meal: (Morning) 20 lbs. kale, 10 lbs. celery, 10 lbs. green beans, 5 lbs. carrots, 1 bag sweet potatoes. (Evening) 10 Bananas, 10 apples, 5 oranges, 5 mango, 20 lbs. grapes, 10 lbs. turnips, 5 lbs. white potatoes
-                    Times: 6:30 am, 12:00 pm, 7:00 pm
-                    Directions: feed Gorillas in the morning as group, spread forage items during noon meal, and divide quantities for individual feeding in evening
+<<<Please append below content to your file "meal-regimens.txt">>>
+5. Western Lowland Gorilla
+Meal: (Morning) 20 lbs. kale, 10 lbs. celery, 10 lbs. green beans, 5 lbs. carrots, 1 bag sweet potatoes. (Evening) 10 Bananas, 10 apples, 5 oranges, 5 mango, 20 lbs. grapes, 10 lbs. turnips, 5 lbs. white potatoes
+Times: 6:30 am, 12:00 pm, 7:00 pm
+Directions: feed Gorillas in the morning as group, spread forage items during noon meal, and divide quantities for individual feeding in evening
+<<<Please append above content to your file "meal-regimens.txt">>>
      
      Step IV: View status of the repository
                 (You should see meal-regimens.txt file in both staged and unstaged areas.
