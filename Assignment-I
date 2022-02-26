@@ -18,7 +18,7 @@ git log --oneline         => View all commits
 git push                  => Push local commits to remote repository
 =================
 
-1: Clone the below Git repository. 
+1: Clone the below Git repository OR Open the link https://gitpod.io/#/https://github.com/winsonliwh/myzoo
       https://github.com/winsonliwh/myzoo.git
 2). Create a new file "meal-regimens.txt"  with the below content.
 
